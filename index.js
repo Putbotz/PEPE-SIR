@@ -1,5 +1,5 @@
-// Script by Pepe
-// 𝙿𝙴𝙿𝙴 𝚂𝙸𝚁 | 𝙳𝙾𝙽'𝚃 𝙲𝙷𝙰𝙽𝙶𝙴 𝙲𝚁𝙴𝙳𝙸𝚃𝚂🙂
+// Script by 𝑃𝑢𝑡
+// 𝑃𝑢𝑡𝑏𝑜𝑡𝑧 | 𝙳𝙾𝙽'𝚃 𝙲𝙷𝙰𝙽𝙶𝙴 𝙲𝚁𝙴𝙳𝙸𝚃𝚂🙂
 // ©𝑝𝑢𝑡𝑏𝑜𝑡𝑧 
 const {
   WAConnection: _WAConnection,
